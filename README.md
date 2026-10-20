@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tiago Sousa</h1>
-<h3 align="center">A software developer from Portugal.</h3>
+<h3 align="center">A software developer from Portugal, currently studying software engineering in Universidade do Minho.</h3>
 
 - 📫 How to reach me **tiagomfsousa14@gmail.com**
 
