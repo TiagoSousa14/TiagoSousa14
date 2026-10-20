@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**TiagoSousa14/TiagoSousa14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, sou o Tiago.
 
-Here are some ideas to get you started:
+Desenvolvedor focado em criar software simples, limpo e eficiente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+**Linguagens** <br>
+Haskell ◦ Java ◦ Python ◦ C
+
+<br>
+
+**Projetos Universitários de Destaque** <br>
+[Nome do Projeto 1](Link_do_repositório_aqui) ◦ [Nome do Projeto 2](Link_do_repositório_aqui)
+
+<br>
+
+[Portefólio](Link_do_Portfólio_aqui) ◦ [LinkedIn](Link_do_LinkedIn_aqui) ◦ [Email](mailto:O_Teu_Email_Aqui)
+
+<br>
+
+---
+
+*"A simplicidade é a sofisticação suprema."*
+
+</div>
